@@ -1,7 +1,7 @@
 
 -  I’m interested in Software and Web Development  
--  I’m currently learning HTML5, CSS3, Javascript and Python 🌱
--  I have some knowledge of OOP(Object-oriented programming) in java and c++ 
+-  I’m currently learning Javascript, Express and Python 🌱
+-  I have some knowledge of OOP(Object-oriented programming) in java and python
 
 
 <!---
