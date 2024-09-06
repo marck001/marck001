@@ -1,6 +1,6 @@
 
 -  I’m interested in Software and Web Development  
--  I’m currently learning Javascript and Python (also java) 🌱
+-  I’m currently learning nodejs and Python (also java) 🌱
 -  I have some knowledge of OOP(Object-oriented programming) in java and python
 
 
