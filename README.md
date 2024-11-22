@@ -2,6 +2,18 @@
 -  I’m interested in Software and Web Development  
 
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql,discord.js,sequelize" /><br>
+</div>
+
+<br/>
+<hr/>
+
 ![Mac's Stats](https://github-readme-stats.vercel.app/api?username=marck001&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
 
 
