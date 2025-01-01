@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql,discordjs,sequelize" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,angular,javascript,mongodb,java,mysql,discordjs,sequelize" /><br>
 </div>
 
 <br/>
